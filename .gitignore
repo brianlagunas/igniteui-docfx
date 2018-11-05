@@ -60,3 +60,4 @@ typings/
 # docfx build
 en/_site
 jp/_site
+/jp/components/doughnutchart.md
